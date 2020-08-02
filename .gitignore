@@ -1,0 +1,12 @@
+
+.DS_Store
+
+
+/.idea
+/migrations
+/app/app.db
+/app/__pycache__/
+
+
+#avoid all the packages.This can be installed after this project is downloaded
+/web_app_boilerplate
